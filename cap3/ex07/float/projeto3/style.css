@@ -1,0 +1,59 @@
+.cabeça{
+    background-color: #e5c5b0;
+    float: right;
+    padding: 10px 15px 35px;
+    border-radius: 0 0 0 20px; 
+    margin-top: none;
+}
+
+a{
+    background-color: white;
+    border: 1px solid  #cc8863;
+    margin: 50px;
+    padding: 5px;
+    border-radius: 20px;
+    color: #cc8863;
+    text-decoration: none;
+}
+
+body{
+    width: 1000px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+}
+
+h2{
+    background-color: #bd4e15;
+    color: white;
+    padding: 0.3em;
+    font-weight: bold;
+}
+
+h3{
+    font-size: 1.5em;
+}
+
+#esquerda{
+    float: left;
+    width: 350px;
+    margin-left: 25%
+}
+
+#direita{
+    float: right;
+    width: 350px;
+    margin-left: auto;
+}
+
+img{
+    float: left;
+    padding: 20px;
+}
+
+form{
+    text-align: justify;
+}
+
+form h3{
+    text-align: left;
+}

@@ -1,0 +1,21 @@
+body{
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.telaPq{
+    display: block;
+}
+
+.telaGd, .telaMd{
+    display: none;
+}
+
+section{
+    width: 95%;
+}
+
+section img{
+    width: 100%;
+}

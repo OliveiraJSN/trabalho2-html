@@ -1,0 +1,33 @@
+body{
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.telaGD{
+    display: block;
+}
+
+.telaMd, .telaPq{
+    display: none;
+}
+
+section{
+    width: 30%;
+    float: left;
+    margin: auto 1.5%
+}
+
+section img{
+    max-width: 100%;
+}
+
+section:last-of-type{
+    width: 30%;
+    float: left;
+}
+
+
+section:last-of-type img{
+    padding-bottom: 65px;
+}

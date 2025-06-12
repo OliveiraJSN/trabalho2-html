@@ -1,0 +1,52 @@
+html{
+    margin: 0 auto;
+}   
+
+body{
+    width: 1000px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    color: white;
+}
+
+.botao{
+    background-color: rgb(0, 119, 255);
+    border-radius: 10px;
+    padding: 8px;
+    margin-left: 45%;
+}
+
+p{
+    text-align: justify;
+}
+
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h1, h2, h3{
+    text-align: center;
+}
+
+h2{
+    font-size: 2em;
+}
+
+.projeto{
+    padding: 3px;
+}
+
+.projeto h3{
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
